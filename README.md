@@ -1,4 +1,4 @@
-# Iterating Over Hashes
+pitalize it # Iterating Over Hashes
 
 ## Objectives
 
